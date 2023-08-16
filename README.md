@@ -18,7 +18,7 @@ I've been working as technical support for 4+ years in various WordPress & SAAS 
 <p align="left">
                       <a href="https://www.facebook.com/rizaardiyanto1412" target="_blank" rel="noreferrer">
                     <picture>
-                    <source media="(prefers-color-scheme: dark)" srcset="undefined" />
+                    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rizaardiyanto1412/rizaardiyanto1412/80d850adfc9dacf3466be91dde1a54e552ff0e8b/images/facebook-dark.svg" />
                     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" />
                     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" />
                     </picture>
@@ -32,7 +32,7 @@ I've been working as technical support for 4+ years in various WordPress & SAAS 
                     </a>
                       <a href="https://www.linkedin.com/in/rizaardiyanto" target="_blank" rel="noreferrer">
                     <picture>
-                    <source media="(prefers-color-scheme: dark)" srcset="undefined" />
+                    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rizaardiyanto1412/rizaardiyanto1412/80d850adfc9dacf3466be91dde1a54e552ff0e8b/images/linkedin-dark.svg" />
                     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" />
                     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
                     </picture>
