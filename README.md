@@ -6,13 +6,18 @@ WordPress Technical Support
 
 I've been working as technical support for 4+ years in various WordPress & SAAS Companies. Currently, I worked at PublishPress - a WordPress plugin company.
 
-*   🌍  I'm based in Indonesia
-*   🖥️  See my portfolio at [rizamaulana.com](http://https://rizamaulana.com/)
-*   ✉️  You can contact me at [me@rizamaulana.com](mailto:me@rizamaulana.com)
-*   🚀  I'm currently working on [WP Remote Work](http://wpremotework.com/)
-*   🧠  I'm learning Javascript
-*   ⚡  I'm actually meme king.. but don't tell anyone
-                  ### Socials
+* 🧢  I was part of [Hostinger (2019)](https://github.com/hostinger)
+* 👨‍🍳  I was part of [Visual Composer (2021)](https://github.com/VisualComposer)
+* 🐧  I am part of [PublishPress (now)](https://github.com/publishpress)
+* 🌍  I'm based in Indonesia
+* 🖥️  See my portfolio at [rizamaulana.com](http://https://rizamaulana.com/)
+* ✉️  You can contact me at [me@rizamaulana.com](mailto:me@rizamaulana.com)
+* 🚀  I'm currently working on [WP Remote Work](http://wpremotework.com/)
+* 🧠  I'm learning Javascript
+* ⚡  I'm actually meme king.. but don't tell anyone
+---------------------------
+### Let's connect!
+
                   
                   
 <p align="left">
