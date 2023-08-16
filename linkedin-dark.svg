@@ -1,0 +1,9 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500" width="128" height="128">
+	<title>icons8-linkedin-500</title>
+	<defs>
+		<image  width="420" height="420" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAaQAAAGkAQMAAABEgsN2AAAAAXNSR0IB2cksfwAAAAZQTFRFAAAA////pdmf3QAAAAJ0Uk5TAP9bkSK1AAAC70lEQVR4nO3cTXLiMBAFYFEsmEUqHMFH0dGko+koOgJLFsSe+L9FKNz9nNGQ1NMqYH8p025bLZVKzvWtU7eLW9pZr7pVBYPKMzoaUHdDLnC9RG9SaVImNEfxYFPTDzvZVIsEYw6HN6pkvsd9y0AIpyAaQ9h1V3M+9e0GBH4KvTXwY+gbs4rA7RpvGKaCWWXgJo+3GVLm1BiSw5waQ3JgypxQQ0phyp6GfSJiqgFUrKo8oFJVFQCVf4AC0OfDTEVFRUVFRUVVUWVtwV0o9aBFqqt64CdVVg9NpUrqYbBU+oG6UK1+UkCom34CQqhheK8LolAX/RSJUFk/HSNU2qFUN0yoqJ9m2q0ME2F7VbtLBSqq/6hqPimgqvnewN5seYeyvnux3gHribBeD+thsd4crBwu2sAX6qYN4TdUX58fkEpP3aioqKioqL5fzasefLcUfVPF8oGo+LXf3VaXB/XEtnpUJ22q66Nac1ONteZdobSpynAq1fzt0aTy9KczqejE12o1ozL2G2pZXFPWShtqXTV0MKglGGU4NlRcVdCrFRVBfK5uQp3V6irUSa3Ewqsip54rEcIi9M9VEsqpVZQqaJVEMvRP1XuhGqV6K9RZqf5AqmwnSB0hdaioHKZCReUrqqaiOldUp4rqWFEdXl6511RB9EZBq2Sholdhnn+zqD7Y7fLJK9WQsNGqmv5Isio/nmNUw+9f6odGpw7FEa0an6jWqKZnHlPRpqZ3WSo/bqnpn+cays8nmVQYD11rqLtDp3+o5hdg+7Jq6UReVi1nxd+llmxNv1sdqaioqKioqKioqKioqKioqKioqKioqPYrS6OioqKionqkAqB+wn5EHlCpqmoAVXc3rfP2SV+aA1XNPdNq7gWH7VYHPMzwfnrgjn/erBKsGrOKDknEvt7GdoPEdp7Edrk03+ZxoVowqryMTCwtlYMYZRuHOtgOqMYgzivpbGpe6+dNKt2P6VRtQuDuuNhOvKZLdGvTozGCfwG9by9z21sPxgAAAABJRU5ErkJggg=="/>
+	</defs>
+	<style>
+	</style>
+	<use id="Background" href="#img1" x="40" y="40"/>
+</svg>
