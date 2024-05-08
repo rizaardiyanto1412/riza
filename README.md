@@ -10,9 +10,9 @@ I've been working as technical support for 4+ years in various WordPress & SAAS 
 * 👨‍🍳  I was part of [Visual Composer (2021)](https://github.com/VisualComposer)
 * 🐧  I am part of [PublishPress (now)](https://github.com/publishpress)
 * 🌍  I'm based in Indonesia
-* 🖥️  See my portfolio at [rizamaulana.com](http://https://rizamaulana.com/)
+* 🖥️  See my portfolio at [rizamaulana.com](https://rizamaulana.com/)
 * ✉️  You can contact me at [me@rizamaulana.com](mailto:me@rizamaulana.com)
-* 🚀  I'm currently working on [WP Remote Work](http://wpremotework.com/)
+* 🚀  I'm currently working on [WP Remote Work](https://wpremotework.com/)
 * 🧠  I'm learning Javascript
 * ⚡  I'm actually meme king.. but don't tell anyone
 ---------------------------
