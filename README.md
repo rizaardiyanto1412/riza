@@ -14,7 +14,6 @@ I've been working as technical support for 4+ years in various WordPress & SAAS 
 * ✉️  You can contact me at [me@rizamaulana.com](mailto:me@rizamaulana.com)
 * 🚀  I'm currently working on [WP Remote Work](https://wpremotework.com/)
 * 🧠  I'm learning Javascript
-* ⚡  I'm actually meme king.. but don't tell anyone
 ---------------------------
 ### Let's connect!
 
